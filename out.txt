@@ -1,0 +1,31 @@
+
+LNAV Ephemeris (slot = 221473810) =
+		 Crs	= -14.7812
+		 Dn	    = 1.36379e-09
+		 M0	    = -142.99		[deg]
+		 Cuc	= -8.08388e-07
+		 e      = 0.00169565
+		 Cus	= 1.0509e-05
+		 sqrtA	= 5153.65
+		 toe	= 93600
+		 Cic	= -1.49012e-08
+		 Omega0	= 11.8269		[deg]
+		 Cis	= 4.09782e-08
+		 i0	    = 55.0915		[deg]
+		 Crc	= 178.406
+		 omega	= -175.597		[deg]
+		 omeDot	= -4.4271e-07		[deg/s]
+		 iDot	= 2.93244e-08		[deg/s]
+		 Tgd	= 0			[sec]
+		 toc	= 93600
+		 af2	= 0
+		 af1	= 2.27374e-12
+		 af0	= -0.00018969
+		 WN	    = 149
+		 IODC	= 588
+		 URA	= 0
+		 Health	= 0
+		 IODE2	= 76
+		 IODE3	= 76
+		 codeL2	= 1
+		 L2P	= 1
