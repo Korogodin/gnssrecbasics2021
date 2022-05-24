@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+iostream
+-
+fstream
+-
+stdlib.h
+-
+cmath
+-
+stdio.h
+-
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/src/Kepler.cpp
+../header/head.h
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/src/coordinate.cpp
+../header/head.h
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/src/data.cpp
+../header/head.h
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/src/main.cpp
+../header/head.h
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/src/otpravit.cpp
+../header/head.h
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/src/toint.cpp
+../header/head.h
+/home/user/git/gnssrecbasics2021/libgpssvpos/etap3_code/header/head.h
+

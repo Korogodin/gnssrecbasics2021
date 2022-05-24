@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g  -rdynamic CMakeFiles/etap3_code.dir/src/otpravit.cpp.o CMakeFiles/etap3_code.dir/src/data.cpp.o CMakeFiles/etap3_code.dir/src/toint.cpp.o CMakeFiles/etap3_code.dir/src/Kepler.cpp.o CMakeFiles/etap3_code.dir/src/coordinate.cpp.o CMakeFiles/etap3_code.dir/src/main.cpp.o  -o etap3_code 
